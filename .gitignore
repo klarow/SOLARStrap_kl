@@ -1,0 +1,7 @@
+example/*
+data/*
+.ipynb_checkpoints
+*pyc
+*~
+working*
+simulations/*
